@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,YACE,yBAA4B,CAC5B,yBAAkB,CAAlB,sBAAkB,CAAlB,iBAAkB,CAClB,gBAAiB,CACjB,cACF","file":"main.7beac8a9.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.todos-item {\n  border: 2px dashed slategray;\n  width: max-content;\n  margin: 20px auto;\n  padding: 0 20px;\n}\n"]}
